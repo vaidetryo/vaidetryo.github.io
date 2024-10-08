@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vaidetryo.github.io/sitemap.html.gz
+Sitemap: https://vaidetryo.github.io/app/sitemap.html.gz
+Sitemap: https://vaidetryo.github.io/assets/sitemap.html.gz
+Sitemap: https://vaidetryo.github.io/css/sitemap.html.gz
+Sitemap: https://vaidetryo.github.io/data/sitemap.html.gz
+Sitemap: https://vaidetryo.github.io/includes/sitemap.html.gz
+Sitemap: https://vaidetryo.github.io/item/sitemap.html.gz
+Sitemap: https://vaidetryo.github.io/src/sitemap.html.gz
